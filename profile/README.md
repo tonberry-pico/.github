@@ -14,3 +14,5 @@ Elektronik- und Programmier-Unerfahrene ist erhalten bleiben.  Deswegen:
    geschrieben, sodass Anpassungen auch ohne weitergehende Programmierkenntnisse möglich sind
  - Die Kombination aus Raspberry Pi Pico W und sonstigen nötigen Modulen sollte nicht nennenswert
    teurer sein als die Arduino-Module des TonUNIO.
+
+Weiter Informationen gibt es auf der [Projektseite](https://tonberry-pico.github.io/tonberry-pico).
