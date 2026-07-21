@@ -16,3 +16,5 @@ Elektronik- und Programmier-Unerfahrene ist erhalten bleiben.  Deswegen:
    teurer sein als die Arduino-Module des TonUNIO.
 
 Weiter Informationen gibt es auf der [Projektseite](https://tonberry-pico.github.io/tonberry-pico).
+
+Das Projekt wurde auf der GPN24 vorgestellt. Der Talk ist auf [media.ccc.de](https://media.ccc.de/v/gpn24-452-kindgerechte-systemarchitektur-die-open-source-musikbox-tonberry-pico) zu sehen.
